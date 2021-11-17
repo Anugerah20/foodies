@@ -1,4 +1,4 @@
-# Web Resep Masakan Ibu
+Website Resep Masakan Ibu yang bernama Foodies 😊
 
 # Dibuat menggunakan :
 - HTML5
